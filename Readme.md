@@ -41,8 +41,8 @@
 🕯️ **TamrielTools** *(WIP)*  
 > Utilities inspired by Elder Scrolls lore. May include name generators, codex parsers, or Daedric calculators.
 
-🎮 **SimLore**  
-> Experiments with storytelling mechanics in The Sims. Mostly for fun, sometimes for chaos.
+🎮 ****  
+> Experiments. Mostly for fun, sometimes for chaos.
 
 ---
 
