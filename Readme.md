@@ -41,7 +41,7 @@
 🕯️ **TamrielTools** *(WIP)*  
 > Utilities inspired by Elder Scrolls lore. May include name generators, codex parsers, or Daedric calculators.
 
-🎮 ****  
+🎮 
 > Experiments. Mostly for fun, sometimes for chaos.
 
 ---
